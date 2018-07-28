@@ -21,3 +21,12 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
+.zip
+
+[Ll]ibrary
+
+RemoteClient.app
+windowBuild
+ProjectSettings
+.vs
+obj
