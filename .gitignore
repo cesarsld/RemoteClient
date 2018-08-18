@@ -30,3 +30,4 @@ windowBuild
 ProjectSettings
 .vs
 obj
+Temp

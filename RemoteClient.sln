@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteClient", "Assembly-CSharp.csproj", "{AF25DF68-10A2-9263-3170-D054FDA5B619}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteClient", "Assembly-CSharp-firstpass.csproj", "{73B6E538-7036-01E9-DE7C-93585AF53660}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteClient", "Assembly-CSharp.csproj", "{AF25DF68-10A2-9263-3170-D054FDA5B619}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,14 +11,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AF25DF68-10A2-9263-3170-D054FDA5B619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AF25DF68-10A2-9263-3170-D054FDA5B619}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AF25DF68-10A2-9263-3170-D054FDA5B619}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AF25DF68-10A2-9263-3170-D054FDA5B619}.Release|Any CPU.Build.0 = Release|Any CPU
 		{73B6E538-7036-01E9-DE7C-93585AF53660}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{73B6E538-7036-01E9-DE7C-93585AF53660}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73B6E538-7036-01E9-DE7C-93585AF53660}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73B6E538-7036-01E9-DE7C-93585AF53660}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF25DF68-10A2-9263-3170-D054FDA5B619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF25DF68-10A2-9263-3170-D054FDA5B619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF25DF68-10A2-9263-3170-D054FDA5B619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF25DF68-10A2-9263-3170-D054FDA5B619}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

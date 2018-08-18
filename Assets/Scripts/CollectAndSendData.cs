@@ -7,7 +7,7 @@ using System;
 public class CollectAndSendData : MonoBehaviour {
 
     public InputField inputField;
-    public WebSocket ws = new WebSocket(new Uri("ws://86.134.78.208:1337"));
+    public WebSocket ws = new WebSocket(new Uri("ws://86.160.113.30:1337"));
 	// Use this for initialization
 	void Start () {
         
